@@ -17,7 +17,8 @@ function detectar_mobile() {
         var result = document.getElementById("result");
         var ftText = document.getElementById("ftText");
 
-        input.style.fontSize = "3vw";
+        input.style.fontSize = "5vw";
+        input.style.width = "80vw";
         ftText.style.fontSize = "3vw";
         result.style.fontSize = "6vw";
 
