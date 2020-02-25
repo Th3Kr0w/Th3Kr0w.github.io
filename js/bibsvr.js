@@ -21,6 +21,7 @@ function detectar_mobile() {
         input.style.width = "80vw";
         ftText.style.fontSize = "3vw";
         result.style.fontSize = "6vw";
+        result.style.width = "90vw";
 
         main.style.height = body.offsetHeight - header.offsetHeight - footer.offsetHeight;
     }
