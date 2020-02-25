@@ -55,6 +55,7 @@ footer {
 #result {
     font-size: 4vw;
     margin: 0 auto;
+    text-align: justify;
 }
 
 /* Chrome, Safari, Edge, Opera */
